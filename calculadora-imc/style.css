@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-world-anti-fat-day-cartoon-exercise-banner-background-picture-image_1101717.jpg');
+  background-size: cover;          
+  background-position: center;      
+  background-repeat: no-repeat;     
+  background-attachment: fixed;     
+  text-align: center;
+  padding: 250px;
+}
+
+h1 {
+  color: #333;
+}
+
+.container {
+  background-color: rgb(209, 209, 209);
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input[type="number"] {
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #2b48a8;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #254097;
+}
+
+#resultado {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
